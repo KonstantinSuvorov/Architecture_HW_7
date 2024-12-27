@@ -12,16 +12,15 @@
 
 ### РЕШЕНИЕ:
 
+1) UI
 
-1) UML
-
-![UML](src/UML.JPG)
+![UI](src/UI.JPG)
 
 2) ERD
 
 ![ERD](src/ERD.JPG)
 
-3) UI
+3) UML
 
-![UI](src/UI.JPG)
+![UML](src/UML.JPG)
 

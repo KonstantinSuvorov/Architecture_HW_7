@@ -8,7 +8,7 @@
 
 ![ERD](src/ERD.JPG)
 
-4) UI
+3) UI
 
 ![UI](src/UI.JPG)
 
